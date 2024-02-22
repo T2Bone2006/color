@@ -1,0 +1,962 @@
+[
+    {
+      "Colour": "pine green",
+      "Number": "267***",
+      "Hex": "#315C48",
+      "R": 49,
+      "G": 92,
+      "B": 72
+    },
+    {
+      "Colour": "juniper green",
+      "Number": "165***",
+      "Hex": "#44694D",
+      "R": 68,
+      "G": 105,
+      "B": 77
+    },
+    {
+      "Colour": "permanent green olive",
+      "Number": "167***",
+      "Hex": "#4C7A4F",
+      "R": 76,
+      "G": 122,
+      "B": 79
+    },
+    {
+      "Colour": "chrome oxide green",
+      "Number": "278***",
+      "Hex": "#4A614B",
+      "R": 74,
+      "G": 97,
+      "B": 75
+    },
+    {
+      "Colour": "permanent green",
+      "Number": "266***",
+      "Hex": "#278A46",
+      "R": 39,
+      "G": 138,
+      "B": 70
+    },
+    {
+      "Colour": "earth green yellowish",
+      "Number": "168***",
+      "Hex": "#82A255",
+      "R": 130,
+      "G": 162,
+      "B": 85
+    },
+    {
+      "Colour": "chromium green opaque",
+      "Number": "174***",
+      "Hex": "#65714F",
+      "R": 101,
+      "G": 113,
+      "B": 79
+    },
+    {
+      "Colour": "earth green",
+      "Number": "172***",
+      "Hex": "#738C70",
+      "R": 115,
+      "G": 140,
+      "B": 112
+    },
+    {
+      "Colour": "olive green yellowish",
+      "Number": "173***",
+      "Hex": "#5B5D44",
+      "R": 91,
+      "G": 93,
+      "B": 68
+    },
+    {
+      "Colour": "burnt umber",
+      "Number": "280***",
+      "Hex": "#685546",
+      "R": 104,
+      "G": 85,
+      "B": 70
+    },
+    {
+      "Colour": "walnut brown",
+      "Number": "177***",
+      "Hex": "#5D4F48",
+      "R": 93,
+      "G": 79,
+      "B": 72
+    },
+    {
+      "Colour": "Van Dyck brown",
+      "Number": "176***",
+      "Hex": "#6C5954",
+      "R": 108,
+      "G": 89,
+      "B": 84
+    },
+    {
+      "Colour": "bistre",
+      "Number": "179***",
+      "Hex": "#7C604C",
+      "R": 124,
+      "G": 96,
+      "B": 76
+    },
+    {
+      "Colour": "burnt siena",
+      "Number": "283***",
+      "Hex": "#895A47",
+      "R": 137,
+      "G": 90,
+      "B": 71
+    },
+    {
+      "Colour": "caput mortuum",
+      "Number": "169***",
+      "Hex": "#9A5D58",
+      "R": 154,
+      "G": 93,
+      "B": 88
+    },
+    {
+      "Colour": "caput mortuum violet",
+      "Number": "263***",
+      "Hex": "#824E51",
+      "R": 130,
+      "G": 78,
+      "B": 81
+    },
+    {
+      "Colour": "Indian red",
+      "Number": "192***",
+      "Hex": "#91474A",
+      "R": 145,
+      "G": 71,
+      "B": 74
+    },
+    {
+      "Colour": "silver",
+      "Number": "251***",
+      "Hex": "#ABADB0",
+      "R": 171,
+      "G": 173,
+      "B": 176
+    },
+    {
+      "Colour": "cold grey III",
+      "Number": "232***",
+      "Hex": "#ACB1B8",
+      "R": 172,
+      "G": 177,
+      "B": 184
+    },
+    {
+      "Colour": "cold grey 1",
+      "Number": "230***",
+      "Hex": "#CAD1D8",
+      "R": 202,
+      "G": 209,
+      "B": 216
+    },
+    {
+      "Colour": "deep cobalt green",
+      "Number": "158***",
+      "Hex": "#146B60",
+      "R": 20,
+      "G": 107,
+      "B": 96
+    },
+    {
+      "Colour": "Hooker's green",
+      "Number": "159***",
+      "Hex": "#0B7764",
+      "R": 11,
+      "G": 119,
+      "B": 100
+    },
+    {
+      "Colour": "oxide green fiery",
+      "Number": "276***",
+      "Hex": "#00987F",
+      "R": 0,
+      "G": 152,
+      "B": 127
+    },
+    {
+      "Colour": "emerald green",
+      "Number": "163***",
+      "Hex": "#0CB074",
+      "R": 12,
+      "G": 176,
+      "B": 116
+    },
+    {
+      "Colour": "grass green",
+      "Number": "166***",
+      "Hex": "#76C25F",
+      "R": 118,
+      "G": 194,
+      "B": 95
+    },
+    {
+      "Colour": "leaf green",
+      "Number": "112***",
+      "Hex": "#49B95C",
+      "R": 73,
+      "G": 185,
+      "B": 92
+    },
+    {
+      "Colour": "gold",
+      "Number": "250***",
+      "Hex": "#CDC08D",
+      "R": 205,
+      "G": 192,
+      "B": 141
+    },
+    {
+      "Colour": "light yellow glaze",
+      "Number": "104***",
+      "Hex": "#F3EF6F",
+      "R": 243,
+      "G": 239,
+      "B": 111
+    },
+    {
+      "Colour": "cadmium yellow lemon",
+      "Number": "205***",
+      "Hex": "#EBEA64",
+      "R": 235,
+      "G": 234,
+      "B": 100
+    },
+    {
+      "Colour": "cadmium yellow",
+      "Number": "107***",
+      "Hex": "#FFD530",
+      "R": 255,
+      "G": 213,
+      "B": 48
+    },
+    {
+      "Colour": "dark cadmium yellow",
+      "Number": "108***",
+      "Hex": "#FFC220",
+      "R": 255,
+      "G": 194,
+      "B": 32
+    },
+    {
+      "Colour": "green gold",
+      "Number": "268***",
+      "Hex": "#CA9439",
+      "R": 202,
+      "G": 148,
+      "B": 57
+    },
+    {
+      "Colour": "burnt ochre",
+      "Number": "187***",
+      "Hex": "#D89763",
+      "R": 216,
+      "G": 151,
+      "B": 99
+    },
+    {
+      "Colour": "brown ochre",
+      "Number": "182***",
+      "Hex": "#C4925D",
+      "R": 196,
+      "G": 146,
+      "B": 93
+    },
+    {
+      "Colour": "raw umber",
+      "Number": "180***",
+      "Hex": "#9A734A",
+      "R": 154,
+      "G": 115,
+      "B": 74
+    },
+    {
+      "Colour": "nougat",
+      "Number": "178***",
+      "Hex": "#927C6B",
+      "R": 146,
+      "G": 124,
+      "B": 107
+    },
+    {
+      "Colour": "copper",
+      "Number": "252***",
+      "Hex": "#B09092",
+      "R": 176,
+      "G": 144,
+      "B": 146
+    },
+    {
+      "Colour": "cold grey V",
+      "Number": "234***",
+      "Hex": "#6E7176",
+      "R": 110,
+      "G": 113,
+      "B": 118
+    },
+    {
+      "Colour": "cold grey IV",
+      "Number": "233***",
+      "Hex": "#8E9498",
+      "R": 142,
+      "G": 148,
+      "B": 152
+    },
+    {
+      "Colour": "cold grey II",
+      "Number": "231***",
+      "Hex": "#BEC4CC",
+      "R": 190,
+      "G": 196,
+      "B": 204
+    },
+    {
+      "Colour": "helio turquoise",
+      "Number": "155***",
+      "Hex": "#087E90",
+      "R": 8,
+      "G": 126,
+      "B": 144
+    },
+    {
+      "Colour": "cobalt green",
+      "Number": "156***",
+      "Hex": "#01BABD",
+      "R": 1,
+      "G": 186,
+      "B": 189
+    },
+    {
+      "Colour": "dark phthalo green",
+      "Number": "264***",
+      "Hex": "#009378",
+      "R": 0,
+      "G": 147,
+      "B": 120
+    },
+    {
+      "Colour": "phthalo green",
+      "Number": "161***",
+      "Hex": "#00B091",
+      "R": 0,
+      "G": 176,
+      "B": 145
+    },
+    {
+      "Colour": "light phthalo green",
+      "Number": "162***",
+      "Hex": "#38BB8F",
+      "R": 56,
+      "G": 184,
+      "B": 143
+    },
+    {
+      "Colour": "may green",
+      "Number": "170***",
+      "Hex": "#9FBB56",
+      "R": 159,
+      "G": 187,
+      "B": 86
+    },
+    {
+      "Colour": "cream",
+      "Number": "102***",
+      "Hex": "#FFF1B6",
+      "R": 255,
+      "G": 241,
+      "B": 182
+    },
+    {
+      "Colour": "light yellow ochre",
+      "Number": "183***",
+      "Hex": "#FCBC5F",
+      "R": 242,
+      "G": 188,
+      "B": 95
+    },
+    {
+      "Colour": "light chrome yellow",
+      "Number": "106***",
+      "Hex": "#FFDE45",
+      "R": 255,
+      "G": 222,
+      "B": 69
+    },
+    {
+      "Colour": "light cadmium yellow",
+      "Number": "105***",
+      "Hex": "#FFE73E",
+      "R": 255,
+      "G": 231,
+      "B": 62
+    },
+    {
+      "Colour": "Naples yellow",
+      "Number": "185***",
+      "Hex": "#F8D25A",
+      "R": 248,
+      "G": 210,
+      "B": 90
+    },
+    {
+      "Colour": "dark Naples ochre",
+      "Number": "184***",
+      "Hex": "#F5C25B",
+      "R": 245,
+      "G": 194,
+      "B": 91
+    },
+    {
+      "Colour": "dark chrome yellow",
+      "Number": "109***",
+      "Hex": "#FAA632",
+      "R": 250,
+      "G": 166,
+      "B": 50
+    },
+    {
+      "Colour": "cadmium orange",
+      "Number": "111***",
+      "Hex": "#F78F26",
+      "R": 247,
+      "G": 143,
+      "B": 38
+    },
+    {
+      "Colour": "orange glaze",
+      "Number": "113***",
+      "Hex": "#F48034",
+      "R": 244,
+      "G": 128,
+      "B": 52
+    },
+    {
+      "Colour": "dark cadmium orange",
+      "Number": "115***",
+      "Hex": "#F47933",
+      "R": 244,
+      "G": 121,
+      "B": 51
+    },
+    {
+      "Colour": "terracotta",
+      "Number": "186***",
+      "Hex": "#EC8E59",
+      "R": 236,
+      "G": 142,
+      "B": 89
+    },
+    {
+      "Colour": "black",
+      "Number": "199***",
+      "Hex": "#050505",
+      "R": 5,
+      "G": 5,
+      "B": 5
+    },
+    {
+      "Colour": "cold grey VI",
+      "Number": "235***",
+      "Hex": "#575758",
+      "R": 87,
+      "G": 87,
+      "B": 88
+    },
+    {
+      "Colour": "Payne's grey",
+      "Number": "181***",
+      "Hex": "#484E55",
+      "R": 72,
+      "G": 78,
+      "B": 85
+    },
+    {
+      "Colour": "Prussian blue",
+      "Number": "246***",
+      "Hex": "#126495",
+      "R": 18,
+      "G": 100,
+      "B": 149
+    },
+    {
+      "Colour": "bluish turquoise",
+      "Number": "149***",
+      "Hex": "#0077A2",
+      "R": 0,
+      "G": 119,
+      "B": 162
+    },
+    {
+      "Colour": "cobalt turquoise",
+      "Number": "153***",
+      "Hex": "#0082A2",
+      "R": 0,
+      "G": 130,
+      "B": 162
+    },
+    {
+      "Colour": "middle phthalo blue",
+      "Number": "152***",
+      "Hex": "#309CD6",
+      "R": 48,
+      "G": 156,
+      "B": 214
+    },
+    {
+      "Colour": "light cobalt turquoise",
+      "Number": "154***",
+      "Hex": "#66CBDA",
+      "R": 102,
+      "G": 203,
+      "B": 218
+    },
+    {
+      "Colour": "light green",
+      "Number": "171***",
+      "Hex": "#A0D185",
+      "R": 160,
+      "G": 209,
+      "B": 133
+    },
+    {
+      "Colour": "white",
+      "Number": "101***",
+      "Hex": "#FFFFFF",
+      "R": 255,
+      "G": 255,
+      "B": 255
+    },
+    {
+      "Colour": "ivory",
+      "Number": "103***",
+      "Hex": "#FFF4D8",
+      "R": 255,
+      "G": 244,
+      "B": 216
+    },
+    {
+      "Colour": "medium flesh",
+      "Number": "131***",
+      "Hex": "#F69C99",
+      "R": 246,
+      "G": 156,
+      "B": 153
+    },
+    {
+      "Colour": "dark flesh",
+      "Number": "130***",
+      "Hex": "#F69892",
+      "R": 246,
+      "G": 152,
+      "B": 146
+    },
+    {
+      "Colour": "light flesh",
+      "Number": "132***",
+      "Hex": "#FBC29F",
+      "R": 251,
+      "G": 194,
+      "B": 159
+    },
+    {
+      "Colour": "cinnamon",
+      "Number": "189***",
+      "Hex": "#E4A893",
+      "R": 228,
+      "G": 168,
+      "B": 147
+    },
+    {
+      "Colour": "Venetian red",
+      "Number": "190***",
+      "Hex": "#DC7E76",
+      "R": 220,
+      "G": 126,
+      "B": 118
+    },
+    {
+      "Colour": "sanguine",
+      "Number": "188***",
+      "Hex": "#D77255",
+      "R": 215,
+      "G": 114,
+      "B": 85
+    },
+    {
+      "Colour": "light cadmium red",
+      "Number": "117***",
+      "Hex": "#F05544",
+      "R": 240,
+      "G": 85,
+      "B": 68
+    },
+    {
+      "Colour": "scarlet red",
+      "Number": "118***",
+      "Hex": "#E84D47",
+      "R": 232,
+      "G": 77,
+      "B": 71
+    },
+    {
+      "Colour": "deep red",
+      "Number": "223***",
+      "Hex": "#E42F44",
+      "R": 228,
+      "G": 47,
+      "B": 68
+    },
+    {
+      "Colour": "dark sepia",
+      "Number": "175***",
+      "Hex": "#474948",
+      "R": 71,
+      "G": 73,
+      "B": 72
+    },
+    {
+      "Colour": "warm grey VI",
+      "Number": "275***",
+      "Hex": "#585557",
+      "R": 88,
+      "G": 85,
+      "B": 87
+    },
+    {
+      "Colour": "warm grey V",
+      "Number": "274***",
+      "Hex": "#626060",
+      "R": 98,
+      "G": 96,
+      "B": 96
+    },
+    {
+      "Colour": "dark indigo",
+      "Number": "157***",
+      "Hex": "#3E4A5B",
+      "R": 62,
+      "G": 74,
+      "B": 91
+    },
+    {
+      "Colour": "cobalt blue",
+      "Number": "143***",
+      "Hex": "#056AB5",
+      "R": 5,
+      "G": 106,
+      "B": 181
+    },
+    {
+      "Colour": "cobalt blue-greenish",
+      "Number": "144***",
+      "Hex": "#156DB6",
+      "R": 21,
+      "G": 109,
+      "B": 182
+    },
+    {
+      "Colour": "phthalo blue",
+      "Number": "110***",
+      "Hex": "#0B7DC2",
+      "R": 11,
+      "G": 125,
+      "B": 194
+    },
+    {
+      "Colour": "light ultramarine",
+      "Number": "140***",
+      "Hex": "#659AD2",
+      "R": 101,
+      "G": 154,
+      "B": 210
+    },
+    {
+      "Colour": "light phthalo blue",
+      "Number": "145***",
+      "Hex": "#43ACE1",
+      "R": 67,
+      "G": 172,
+      "B": 225
+    },
+    {
+      "Colour": "sky blue",
+      "Number": "146***",
+      "Hex": "#86B2DF",
+      "R": 134,
+      "G": 178,
+      "B": 223
+    },
+    {
+      "Colour": "light magenta",
+      "Number": "119***",
+      "Hex": "#D786B9",
+      "R": 215,
+      "G": 134,
+      "B": 185
+    },
+    {
+      "Colour": "middle purple pink",
+      "Number": "125***",
+      "Hex": "#C3408B",
+      "R": 195,
+      "G": 64,
+      "B": 139
+    },
+    {
+      "Colour": "pink madder lake",
+      "Number": "129***",
+      "Hex": "#F389B2",
+      "R": 243,
+      "G": 137,
+      "B": 178
+    },
+    {
+      "Colour": "light purple pink",
+      "Number": "128***",
+      "Hex": "#F06D98",
+      "R": 240,
+      "G": 109,
+      "B": 152
+    },
+    {
+      "Colour": "fuchsia",
+      "Number": "123***",
+      "Hex": "#EF4C86",
+      "R": 239,
+      "G": 76,
+      "B": 134
+    },
+    {
+      "Colour": "pink carmine",
+      "Number": "127***",
+      "Hex": "#E85274",
+      "R": 232,
+      "G": 82,
+      "B": 116
+    },
+    {
+      "Colour": "rose carmine",
+      "Number": "124***",
+      "Hex": "#E95C72",
+      "R": 233,
+      "G": 92,
+      "B": 114
+    },
+    {
+      "Colour": "Pompeian red",
+      "Number": "191***",
+      "Hex": "#E77C83",
+      "R": 231,
+      "G": 124,
+      "B": 131
+    },
+    {
+      "Colour": "deep scarlet red",
+      "Number": "219***",
+      "Hex": "#E8495E",
+      "R": 232,
+      "G": 73,
+      "B": 94
+    },
+    {
+      "Colour": "pale geranium lake",
+      "Number": "121***",
+      "Hex": "#EF4650",
+      "R": 239,
+      "G": 70,
+      "B": 80
+    },
+    {
+      "Colour": "middle cadmium red",
+      "Number": "217***",
+      "Hex": "#BC454F",
+      "R": 188,
+      "G": 69,
+      "B": 79
+    },
+    {
+      "Colour": "warm grey IV",
+      "Number": "273***",
+      "Hex": "#7C7E7F",
+      "R": 124,
+      "G": 126,
+      "B": 127
+    },
+    {
+      "Colour": "warm grey III",
+      "Number": "272***",
+      "Hex": "#A8A59F",
+      "R": 168,
+      "G": 165,
+      "B": 159
+    },
+    {
+      "Colour": "helio blue-reddish",
+      "Number": "151***",
+      "Hex": "#1770B8",
+      "R": 23,
+      "G": 112,
+      "B": 184
+    },
+    {
+      "Colour": "ultramarine",
+      "Number": "120***",
+      "Hex": "#506DB4",
+      "R": 80,
+      "G": 109,
+      "B": 180
+    },
+    {
+      "Colour": "indanthrene blue",
+      "Number": "247***",
+      "Hex": "#445E98",
+      "R": 68,
+      "G": 94,
+      "B": 152
+    },
+    {
+      "Colour": "delft blue",
+      "Number": "141***",
+      "Hex": "#484F9F",
+      "R": 72,
+      "G": 79,
+      "B": 159
+    },
+    {
+      "Colour": "blue violet",
+      "Number": "137***",
+      "Hex": "#59529E",
+      "R": 89,
+      "G": 82,
+      "B": 158
+    },
+    {
+      "Colour": "muave",
+      "Number": "249***",
+      "Hex": "#6157A1",
+      "R": 97,
+      "G": 87,
+      "B": 161
+    },
+    {
+      "Colour": "purple violet",
+      "Number": "136**",
+      "Hex": "#7358A0",
+      "R": 115,
+      "G": 88,
+      "B": 160
+    },
+    {
+      "Colour": "violet",
+      "Number": "138**",
+      "Hex": "#8A6BAF",
+      "R": 138,
+      "G": 107,
+      "B": 175
+    },
+    {
+      "Colour": "manganese violet",
+      "Number": "160*",
+      "Hex": "#9A69AD",
+      "R": 154,
+      "G": 105,
+      "B": 173
+    },
+    {
+      "Colour": "crimson",
+      "Number": "134*",
+      "Hex": "#A14D9D",
+      "R": 161,
+      "G": 77,
+      "B": 157
+    },
+    {
+      "Colour": "light red-violet",
+      "Number": "135**",
+      "Hex": "#AB68A1",
+      "R": 171,
+      "G": 104,
+      "B": 161
+    },
+    {
+      "Colour": "red-violet",
+      "Number": "194***",
+      "Hex": "#88496D",
+      "R": 136,
+      "G": 73,
+      "B": 109
+    },
+    {
+      "Colour": "magneta",
+      "Number": "133***",
+      "Hex": "#934E67",
+      "R": 147,
+      "G": 78,
+      "B": 103
+    },
+    {
+      "Colour": "dark red",
+      "Number": "225***",
+      "Hex": "#A63055",
+      "R": 166,
+      "G": 48,
+      "B": 85
+    },
+    {
+      "Colour": "burnt carmine",
+      "Number": "293***",
+      "Hex": "#AA5164",
+      "R": 170,
+      "G": 81,
+      "B": 100
+    },
+    {
+      "Colour": "permanent carmine",
+      "Number": "126***",
+      "Hex": "#D82C4A",
+      "R": 216,
+      "G": 44,
+      "B": 74
+    },
+    {
+      "Colour": "madder",
+      "Number": "142***",
+      "Hex": "#CD3F5C",
+      "R": 205,
+      "G": 63,
+      "B": 92
+    },
+    {
+      "Colour": "alizarin crimson",
+      "Number": "226***",
+      "Hex": "#DF2D5D",
+      "R": 223,
+      "G": 45,
+      "B": 93
+    },
+    {
+      "Colour": "warm grey I",
+      "Number": "270***",
+      "Hex": "#D9DOCE",
+      "R": 217,
+      "G": 208,
+      "B": 206
+    },
+    {
+      "Colour": "warm grey II",
+      "Number": "271***",
+      "Hex": "#C8C1BE",
+      "R": 200,
+      "G": 193,
+      "B": 190
+    }
+]
